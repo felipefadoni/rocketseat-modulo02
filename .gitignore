@@ -1,2 +1,4 @@
 .vscode
 node_modules
+/src/config
+/src/app/views/emails
